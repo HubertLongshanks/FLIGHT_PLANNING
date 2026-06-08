@@ -1,7 +1,7 @@
 # Whats In Here
 This is a small sample of some project documents spanning data processing and flightline planning tasks. We **DO NOT** include our full data pipeline - you probably do not want to download ~1TB of LiDAR data. If you have interest in the processing files email Hugh - hal20a@fsu.edu
 
-We include the class definition as well as a sample script used to generate flight lines. If canvas allows - we will also include a sample DSM so you can run the workflow. If you are on MacOS, note that multiprocessing in Jupyter Notebooks can often have issues. We reccomend running this in a Linux environment. We used Ubuntu 22.xx.
+We include the class definition as well as a sample script used to generate flight lines. We also include a sample DSM so you can run the workflow. If you are on MacOS, note that multiprocessing in Jupyter Notebooks can often have issues. We reccomend running this in a Linux environment. We used Ubuntu 22.xx.
 
 If you would like to download a sample DSM (if you do not see a .tif file here), we host a sample DSM on an AWS S3 compatible service provided by Digital Ocean. You can download it using the following command:
 ```sh
